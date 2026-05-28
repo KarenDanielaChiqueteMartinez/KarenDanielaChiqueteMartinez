@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Un poco de mí...<br>🎓 Estudiante de Ingeniería en Sistemas Computacionales en el TecNM<br>🎯 Objetivo: Graduarme con éxito (y sobrevivir al proceso 🤣).  <br>⭐ Disfruto compartir conocimientos y apoyar a los demás siempre que me es posible.  <br>🌿 En mi tiempo libre me gusta leer, ver series y pintar cuando llega la inspiración.  <br>🧚‍♀️ Palia lover</p>
+<p align="left">✨ Un poco de mí...<br>🎓 Estudiante de Ingeniería en Sistemas Computacionales en el TecNM<br>🎯 Objetivo: Graduarme (y sobrevivir al proceso 🤣).  <br>⭐ Disfruto compartir conocimientos y apoyar a los demás siempre que me es posible.  <br>🌿 En mi tiempo libre me gusta leer, ver series y pintar cuando llega la inspiración.  <br>🧚‍♀️ Palia lover</p>
 
 ###
 
